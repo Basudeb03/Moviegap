@@ -80,13 +80,7 @@ This project uses the [OMDB API](http://www.omdbapi.com/) for fetching movie dat
 2. Click the search icon to fetch and display relevant movies.
 3. View IMDb ratings and details for the listed movies.
 
-## Screenshots
 
-### Home Page
-![Home Page](public/screenshots/home-page.png)
-
-### Search Results
-![Search Results](public/screenshots/search-results.png)
 
 ## Dependencies
 
